@@ -1,0 +1,15 @@
+{
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Volumes/Macintosh HD - Data 1/vue-nuxt/threads-clone/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "isEntry": true,
+    "file": "/Volumes/Macintosh HD - Data 1/vue-nuxt/threads-clone/node_modules/nuxt/dist/app/entry.js"
+  }
+}
